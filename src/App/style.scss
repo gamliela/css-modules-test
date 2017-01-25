@@ -1,0 +1,4 @@
+.ModifiedGuestList {
+  composes: GuestList from "./GuestList/style.scss";
+  color: red;
+}
