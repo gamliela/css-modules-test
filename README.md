@@ -7,3 +7,7 @@ Using Webpack 2.2.
 * npm run dev-server
 
 Check out the style tags in the html: there are 2 tags for class GuestList.
+
+## demo
+
+![example](example.jpg)
